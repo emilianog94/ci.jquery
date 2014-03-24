@@ -1,0 +1,22 @@
+{
+  "name": "ci",
+  "title": "jQuery CI validation",
+  "description": "jQuery plugin to validate Uruguayan cedula de identidad",
+  "keywords": [
+    "cedula-de-identidad",
+    "uruguay",
+    "validation"
+  ],
+  "author": {
+    "name": "Fernando Briano",
+    "url": "http://picandocodigo.net"
+  },
+  "licenses": [
+    {
+      "type": "GPLv2",
+      "url": "https://www.gnu.org/licenses/gpl-2.0.html"
+    }
+  ],
+  "dependencies": {"jquery": "1.x"},
+  "version": "0.0.1"
+}
